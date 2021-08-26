@@ -1,9 +1,0 @@
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\bin\Release\netstandard2.0\Solidus.OrderBook.BL.Models.deps.json
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\bin\Release\netstandard2.0\Solidus.OrderBook.BL.Models.dll
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\bin\Release\netstandard2.0\Solidus.OrderBook.BL.Models.pdb
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\obj\Release\netstandard2.0\Solidus.OrderBook.BL.Models.csprojAssemblyReference.cache
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\obj\Release\netstandard2.0\Solidus.OrderBook.BL.Models.AssemblyInfoInputs.cache
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\obj\Release\netstandard2.0\Solidus.OrderBook.BL.Models.AssemblyInfo.cs
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\obj\Release\netstandard2.0\Solidus.OrderBook.BL.Models.csproj.CoreCompileInputs.cache
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\obj\Release\netstandard2.0\Solidus.OrderBook.BL.Models.dll
-C:\Users\OrTobis\source\repos\Solidus.OrderBook.BL.Models\Solidus.OrderBook.BL.Models\obj\Release\netstandard2.0\Solidus.OrderBook.BL.Models.pdb
